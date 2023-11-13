@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
-
+body{
+    background-color: black;
+    color: white;
+}
 .docs-main {
     text-align: center;
     font-family: 'Roboto', sans-serif;
+   
 }
 
 .add-docs {
@@ -40,7 +44,8 @@
 
 .grid-child {
     padding: 20px;
-    background-color: rgb(9, 8, 8);
+    background-color:white;
+    color: black;
     width: 300px;
     cursor: pointer;
 }
