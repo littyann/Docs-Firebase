@@ -48,6 +48,7 @@ body{
     color: black;
     width: 300px;
     cursor: pointer;
+    border-radius: 20px;
 }
 
 .editDocs-main {
